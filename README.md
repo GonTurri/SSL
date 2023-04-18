@@ -2,4 +2,4 @@
 
 ## Nombre de usuario: GonTurri
 
-###Este es el repositorio individual de la materia
+##Este es el repositorio individual de Gonzalo Turri
