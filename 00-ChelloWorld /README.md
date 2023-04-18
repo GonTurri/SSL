@@ -1,4 +1,6 @@
-# compilador utilizado: Clang (trabajo en Mac)
+# Este es el tp0 de Gonzalo Turri
+
+## compilador utilizado: Clang (trabajo en Mac)
 
 compile usando la linea 
 
